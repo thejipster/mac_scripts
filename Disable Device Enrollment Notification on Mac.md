@@ -12,7 +12,11 @@ Restart computer
 
 ## Edit `com.apple.ManagedClient.enroll.plist`
 
+In the terminal, type
+
+```
 sudo open /Applications/TextEdit.app /System/Library/LaunchDaemons/com.apple.ManagedClient.enroll.plist
+```
 
 change
 
